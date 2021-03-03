@@ -10,7 +10,7 @@
     "mongodb": "2.x",
     "mongoose": ">=5.7.5",
     "path": "0.x",
-    "pug": "2.x",
+    "pug": "3.x",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "react-scripts": "2.0.4"
